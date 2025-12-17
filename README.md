@@ -1,8 +1,8 @@
-# Technowell-EduTech-Education-Analytics-Revenue-Performance-Dashboard
+# Teknowell EduTech – Institutional Performance & Analytics Dashboard
 
 # 1. Project Title / Headline
-Technowell EduTech – Student Fees, Enrollment & Revenue Analytics Dashboards.  
-"A Comprehensive BI Dashboard for Student Enrollment, Course Performance & Revenue Analysis."
+Teknowell EduTech – Institutional Performance & Analytics Dashboard. 
+"An End-to-End BI Solution to Monitor Institutional Performance, Student Outcomes, Financial Health & Trainer Effectiveness."
 
 # 2. Short Description / Purpose
 1-2 sentences explaining what the dashboard does and why it exists.
