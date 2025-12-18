@@ -46,25 +46,25 @@ The data used in this project is derived from Technowell EduTech’s internal st
 
 The dataset includes multiple interconnected tables covering:
 
-- 👩‍🎓 Student Details
+- 👩‍🎓 Student Details  
   (Student Name, Enrollment Date, City, Batch, Course)
   
-- 📚 Course Information
+- 📚 Course Information  
   (Course Name, Course Category, Fees, Revenue)
   
-- 💰 Fees & Payment Records
+- 💰 Fees & Payment Records  
   (Total Fees, Paid Amount, Pending Amount, Payment Status)
   
-- 🎯 Placement Data
+- 🎯 Placement Data  
   (Placement Status, Company Name, Package Offered, Placement Date)
   
-- 📊 Academic Performance Data
+- 📊 Academic Performance Data  
   (Subject-wise Marks, Average Marks, Performance Bands)
   
-- 🕒 Attendance Records
+- 🕒 Attendance Records  
   (Attendance %, Attendance Category)
   
-- 👨‍🏫 Trainer & Batch Details
+- 👨‍🏫 Trainer & Batch Details  
   (Trainer Name, Course Assigned, Trainer Rating, Batch-wise Student Count)
 
 The dataset was provided in Excel format and transformed using Power Query to ensure data accuracy, consistency, and analytical readiness.
@@ -105,53 +105,53 @@ The dashboard aims to:
 ## C. Walkthrough of Key Visuals (Brief Overview)
 The Power BI solution consists of multiple dashboards, each focusing on a critical aspect of institutional performance:
 
-💰 1. Student Fees Performance Dashboard
+###💰 1. Student Fees Performance Dashboard
 
-- Total Fees, Paid Fees & Outstanding Amount (KPI Cards)
+- Total Fees, Paid Fees & Outstanding Amount (KPI Cards)  
   Provides a quick snapshot of overall financial health.
-- Paid vs Pending Fees Comparison
+- Paid vs Pending Fees Comparison  
   Helps identify gaps in fee collection and improve follow-up strategies.
-- Student-level Fee Details Table
+- Student-level Fee Details Table  
   Enables granular tracking of individual student payments and pending dues.
 
-📊 2. Course Enrollment & Revenue Dashboard
+###📊 2. Course Enrollment & Revenue Dashboard
 
-- Monthly Enrollment Trend (Line Chart)
+- Monthly Enrollment Trend (Line Chart)  
   Tracks month-wise student enrollments to identify growth patterns and seasonality.
-- Course Popularity TreeMap
+- Course Popularity TreeMap  
   Visualizes student distribution across courses, helping identify high-demand and low-demand programs.
-- Revenue by Course (Bar Chart)
+- Revenue by Course (Bar Chart)  
   Highlights top revenue-generating courses, supporting pricing and marketing decisions.
-- City-wise Student Distribution
+- City-wise Student Distribution  
   Shows enrollment contribution from different cities to analyze regional demand.
 
-🧑‍🎓 3. Student Performance & Attendance Dashboard
+###🧑‍🎓 3. Student Performance & Attendance Dashboard
 
-- Average Marks & Performance Bands
+- Average Marks & Performance Bands  
   Categorizes students based on academic performance.
-- Attendance Percentage Analysis
+- Attendance Percentage Analysis  
   Helps identify attendance trends and at-risk students.
-- Subject-wise Performance Tables
+- Subject-wise Performance Tables  
   Provides detailed academic insights at the subject level.
 
-🎯 4. Placement & Career Outcome Dashboard
+###🎯 4. Placement & Career Outcome Dashboard
 
-- Placement Rate KPI
+- Placement Rate KPI  
   Displays the percentage of students placed across courses.
-- Average & Highest Package Indicators
+- Average & Highest Package Indicators  
   Highlights salary benchmarks achieved by students.
-- Company-wise Placements
+- Company-wise Placements  
   Shows top hiring companies and placement distribution.
-- Course-wise Placement Performance
+- Course-wise Placement Performance  
   Identifies courses with strong and weak placement outcomes.
 
-👨‍🏫 5. Trainer & Batch Performance Dashboard
+###👨‍🏫 5. Trainer & Batch Performance Dashboard
 
-- Trainer Rating KPIs
+- Trainer Rating KPIs  
   Evaluates trainer effectiveness based on student feedback.
-- Batch-wise Student Count
+- Batch-wise Student Count  
   Shows workload distribution across trainers.
-- Trainer vs Student Performance Analysis
+- Trainer vs Student Performance Analysis  
   Connects trainer effectiveness with student outcomes.
 
 ## D. Business Impact & Insights
