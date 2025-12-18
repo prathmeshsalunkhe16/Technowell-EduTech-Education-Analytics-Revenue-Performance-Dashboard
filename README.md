@@ -105,7 +105,7 @@ The dashboard aims to:
 ## C. Walkthrough of Key Visuals (Brief Overview)
 The Power BI solution consists of multiple dashboards, each focusing on a critical aspect of institutional performance:
 
-###💰 1. Student Fees Performance Dashboard
+💰 ###1. Student Fees Performance Dashboard
 
 - Total Fees, Paid Fees & Outstanding Amount (KPI Cards)  
   Provides a quick snapshot of overall financial health.
